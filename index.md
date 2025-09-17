@@ -2,87 +2,48 @@
 title: Inicio
 ---
 
-# 👋 ¡Hola! Soy **Tu Nombre**
+# 👋 ¡Hola! Soy **Lucas Mendoza**
 
-Soy desarrollador apasionado por construir soluciones elegantes y funcionales. Me encanta aprender, crear y compartir conocimiento.
+Soy desarrollador full stack apasionado por construir aplicaciones escalables y experiencias de usuario fluidas. Me encanta el código limpio, los cafés fuertes y los retos técnicos.
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Habilidades Técnicas
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Python
-- **Herramientas**: Git, GitHub, VS Code, Figma
-- **Metodologías**: Scrum, Desarrollo Ágil
+- **Frontend**: HTML5, CSS3, JavaScript, React, TailwindCSS
+- **Backend**: Node.js, Python, Express, Django
+- **Bases de Datos**: PostgreSQL, MongoDB, Firebase
+- **DevOps**: Git, GitHub Actions, Docker, Vercel, Netlify
+- **Metodologías**: Scrum, TDD, Pair Programming
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-🔹 **[Nombre del Proyecto 1](#)**  
-Breve descripción del proyecto, tecnologías usadas y enlace al repo o demo.
+🔹 **TaskFlow** — Aplicación de gestión de tareas  
+Una app full stack con React + Node.js + JWT. Permite crear, editar y compartir tareas en tiempo real.  
+→ [Ver demo](https://taskflow-demo.netlify.app) | [Código en GitHub](https://github.com/lucas-mendoza/taskflow)
 
-🔹 **[Nombre del Proyecto 2](#)**  
-Otro proyecto interesante que hayas hecho.
+🔹 **Weatherly** — App del clima minimalista  
+Consumo de API de OpenWeather con geolocalización y modo oscuro.  
+→ [Ver demo](https://weatherly-app.vercel.app) | [Código en GitHub](https://github.com/lucas-mendoza/weatherly)
 
----
-
-## 📬 Contacto
-
-📧 [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)  
-🐙 [GitHub](https://github.com/tu-usuario)  
-🔗 [LinkedIn](https://linkedin.com/in/tu-perfil)  
-🐦 [Twitter](https://twitter.com/tu-usuario) *(opcional)*
+🔹 **DevBlog** — Blog personal con Jekyll  
+Este mismo portfolio está hecho con Jekyll y GitHub Pages 😄  
+→ [Ver código](https://github.com/lucas-mendoza/mi-portfolio)
 
 ---
 
-> 💡 **Reemplaza todo lo que dice “Tu Nombre”, “tu.email@ejemplo.com”, “tu-usuario”, etc.** con tus datos reales.
+## 📬 ¿Quieres contactarme?
 
-> 🔗 Si no tienes LinkedIn o Twitter, simplemente bórralos.
+Siempre estoy abierto a nuevos proyectos, colaboraciones o simplemente para charlar de tecnología.
 
----
-
-## ✅ PASO A PASO EN GITHUB (RESUMEN)
-
-1. Ve a tu repositorio → **“Add file” → “Create new file”**
-2. Crea `_config.yml` con el contenido de arriba → **Commit new file**
-3. Crea `index.md` con el contenido de arriba → **Commit new file**
-4. Ve a **Settings → Pages**
-   - Source: `main` (o `master`) + `/ (root)`
-   - Save
-5. Espera 1-2 minutos.
-6. Visita tu sitio: `https://tu-usuario.github.io/nombre-del-repo/`
+📧 [lucas.mendoza.dev@gmail.com](mailto:lucas.mendoza.dev@gmail.com)  
+🐙 [GitHub](https://github.com/lucas-mendoza)  
+🔗 [LinkedIn](https://linkedin.com/in/lucasmendozadev)  
+🐦 [Twitter](https://twitter.com/lucasdevcodes)  
+☕ [Invítame un café](https://buymeacoffee.com/lucasdev)
 
 ---
 
-## 🖼️ Vista previa del tema Architect
-
-Puedes ver cómo se ve aquí:  
-👉 https://github.com/pages-themes/architect
-
-Tiene una barra lateral con navegación automática (si creas más páginas como `about.md` o `proyectos.md`, aparecerán ahí).
-
----
-
-## ➕ BONUS: Agrega una página “Sobre mí” o “Proyectos”
-
-Si quieres agregar más secciones, solo crea nuevos archivos `.md`:
-
-### 📄 `about.md`
-
-```markdown
----
-title: Sobre mí
----
-
-# 👤 Sobre mí
-
-Estudié Ingeniería en Sistemas en la Universidad XYZ. Me apasiona el desarrollo web y la automatización de procesos...
-
-## 🎓 Educación
-
-- Universidad ABC (2020-2025)
-
-## 💼 Experiencia
-
-- Prácticas en Empresa Tech (2024)
+> “El código es poesía, pero solo si otros pueden leerla.” — *Desarrollador random del internet*
