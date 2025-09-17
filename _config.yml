@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Mi Portfolio
-description: Mi Sitio Web
+theme: jekyll-theme-architect
+title: Tu Nombre
+description: Desarrollador | Creador | Solucionador de problemas
+show_downloads: false
+google_analytics:
